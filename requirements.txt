@@ -1,3 +1,8 @@
+python-telegram-bot==20.7
+aiofiles
+pillow
+androguard==3.4.0a1
+dex2c
 networkx
 pydot>=1.4.1
 future
@@ -5,3 +10,6 @@ pyasn1
 cryptography
 lxml>=4.3.0
 asn1crypto>=0.24.0
+requests
+colorama
+tqdm
